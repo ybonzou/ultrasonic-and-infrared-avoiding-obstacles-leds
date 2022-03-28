@@ -1,5 +1,6 @@
 {
     "name": "Ultrasonic and Infrared Avoiding Obstacles LEDs",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
